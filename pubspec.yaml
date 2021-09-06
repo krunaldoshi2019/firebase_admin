@@ -14,7 +14,7 @@ dependencies:
   openid_client: ^0.4.1
   firebase_dart: ^1.0.0-dev.45
   path: ^1.8.0
-  meta: ^1.4.0
+  meta: ^1.3.0
   http: ^0.13.0
   crypto_keys: ^0.3.0
   collection: ^1.15.0
